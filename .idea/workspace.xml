@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0dd035f-6893-4c7f-8dfe-df4efd693029" name="Changes" comment="CeilingFan class">
-      <change afterPath="$PROJECT_DIR$/src/CeilingFan.java" afterDir="false" />
-    </list>
+    <list default="true" id="a0dd035f-6893-4c7f-8dfe-df4efd693029" name="Changes" comment="java docs" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658963399708</updated>
-      <workItem from="1658963407841" duration="2824000" />
+      <workItem from="1658963407841" duration="3226000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1658966441003</created>
@@ -69,7 +67,21 @@
       <option name="project" value="LOCAL" />
       <updated>1658966441003</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added class test">
+      <created>1658966954339</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658966954339</updated>
+    </task>
+    <task id="LOCAL-00003" summary="java docs">
+      <created>1658967294235</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658967294235</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +101,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="CeilingFan class" />
-    <option name="LAST_COMMIT_MESSAGE" value="CeilingFan class" />
+    <MESSAGE value="added class test" />
+    <MESSAGE value="java docs" />
+    <option name="LAST_COMMIT_MESSAGE" value="java docs" />
   </component>
 </project>
