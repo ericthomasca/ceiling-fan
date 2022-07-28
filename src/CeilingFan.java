@@ -58,5 +58,22 @@ public class CeilingFan {
         System.out.printf("Fan Direction: %s\n", CeilingFan.getDirection());
         CeilingFan.pullDirectionCord();
         System.out.printf("Fan Direction: %s\n", CeilingFan.getDirection());
+        CeilingFan.pullDirectionCord();
+        System.out.printf("Fan Speed: %d\n", CeilingFan.getSpeed());
+        CeilingFan.pullSpeedCord();
+        System.out.printf("Fan Speed: %d\n", CeilingFan.getSpeed());
+        CeilingFan.pullSpeedCord();
+        System.out.printf("Fan Speed: %d\n", CeilingFan.getSpeed());
+        CeilingFan.pullSpeedCord();
+        System.out.printf("Fan Speed: %d\n", CeilingFan.getSpeed());
+        CeilingFan.pullSpeedCord();
+        System.out.printf("Fan Speed: %d\n", CeilingFan.getSpeed());
+        CeilingFan.pullSpeedCord();
+        System.out.printf("Fan Speed: %d\n", CeilingFan.getSpeed());
+        System.out.printf("Fan Direction: %s\n", CeilingFan.getDirection());
+        CeilingFan.pullDirectionCord();
+        System.out.printf("Fan Direction: %s\n", CeilingFan.getDirection());
+        CeilingFan.pullDirectionCord();
+        System.out.printf("Fan Direction: %s\n", CeilingFan.getDirection());
     }
 }

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0dd035f-6893-4c7f-8dfe-df4efd693029" name="Changes" comment="java docs" />
+    <list default="true" id="a0dd035f-6893-4c7f-8dfe-df4efd693029" name="Changes" comment=".idea files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658963399708</updated>
-      <workItem from="1658963407841" duration="3226000" />
+      <workItem from="1658963407841" duration="3259000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1658966441003</created>
@@ -81,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658967294235</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=".idea files">
+      <created>1658967327762</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658967327762</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +110,7 @@
     <MESSAGE value="CeilingFan class" />
     <MESSAGE value="added class test" />
     <MESSAGE value="java docs" />
-    <option name="LAST_COMMIT_MESSAGE" value="java docs" />
+    <MESSAGE value=".idea files" />
+    <option name="LAST_COMMIT_MESSAGE" value=".idea files" />
   </component>
 </project>
