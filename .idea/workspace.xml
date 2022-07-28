@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0dd035f-6893-4c7f-8dfe-df4efd693029" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ceiling-fan.iml" afterDir="false" />
+    <list default="true" id="a0dd035f-6893-4c7f-8dfe-df4efd693029" name="Changes" comment="CeilingFan class">
       <change afterPath="$PROJECT_DIR$/src/CeilingFan.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +38,20 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="CeilingFan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CeilingFan" />
+      <module name="ceiling-fan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CeilingFan" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,8 +60,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658963399708</updated>
-      <workItem from="1658963407841" duration="2168000" />
+      <workItem from="1658963407841" duration="2824000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1658966441003</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658966441003</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,5 +85,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="CeilingFan class" />
+    <option name="LAST_COMMIT_MESSAGE" value="CeilingFan class" />
   </component>
 </project>
